@@ -1,0 +1,67 @@
+[
+  {
+    "timestamp": "2025-04-06T12:01:37.917051",
+    "operations": {
+      "model_initialization": {
+        "total_operations": 1,
+        "successful_operations": 1,
+        "failed_operations": 0,
+        "average_duration": 0.025042057037353516,
+        "min_duration": 0.025042057037353516,
+        "max_duration": 0.025042057037353516,
+        "total_duration": 0.025042057037353516,
+        "error_rate": 0.0
+      },
+      "escargot_initialization": {
+        "total_operations": 1,
+        "successful_operations": 1,
+        "failed_operations": 0,
+        "average_duration": 0.004321098327636719,
+        "min_duration": 0.004321098327636719,
+        "max_duration": 0.004321098327636719,
+        "total_duration": 0.004321098327636719,
+        "error_rate": 0.0
+      },
+      "paper_loading": {
+        "total_operations": 1,
+        "successful_operations": 1,
+        "failed_operations": 0,
+        "average_duration": 0.00011014938354492188,
+        "min_duration": 0.00011014938354492188,
+        "max_duration": 0.00011014938354492188,
+        "total_duration": 0.00011014938354492188,
+        "error_rate": 0.0
+      },
+      "treatment_recommendations": {
+        "total_operations": 1,
+        "successful_operations": 1,
+        "failed_operations": 0,
+        "average_duration": 1.9524149894714355,
+        "min_duration": 1.9524149894714355,
+        "max_duration": 1.9524149894714355,
+        "total_duration": 1.9524149894714355,
+        "error_rate": 0.0
+      },
+      "procedure_details": {
+        "total_operations": 1,
+        "successful_operations": 1,
+        "failed_operations": 0,
+        "average_duration": 2.9638431072235107,
+        "min_duration": 2.9638431072235107,
+        "max_duration": 2.9638431072235107,
+        "total_duration": 2.9638431072235107,
+        "error_rate": 0.0
+      },
+      "similar_cases": {
+        "total_operations": 1,
+        "successful_operations": 1,
+        "failed_operations": 0,
+        "average_duration": 2.456413745880127,
+        "min_duration": 2.456413745880127,
+        "max_duration": 2.456413745880127,
+        "total_duration": 2.456413745880127,
+        "error_rate": 0.0
+      }
+    }
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Surgical Management of Facial Asymmetry in Craniofacial Surgery",
+    "authors": ["Smith, J.", "Johnson, A.", "Williams, R."],
+    "year": "2023",
+    "journal": "Journal of Craniofacial Surgery",
+    "abstract": "Facial asymmetry is a common condition that can significantly impact a patient's quality of life. This study evaluates the effectiveness of bilateral sagittal split osteotomy (BSSO) in correcting facial asymmetry in 50 patients. Results showed that BSSO was effective in correcting facial asymmetry in 92% of cases, with minimal complications. The procedure involves cutting the mandible bilaterally and repositioning it to achieve symmetry. Key anatomical structures involved include the mandibular nerve, inferior alveolar nerve, and facial artery. Common complications include temporary numbness and rare cases of non-union.",
+    "keywords": ["facial asymmetry", "bilateral sagittal split osteotomy", "BSSO", "mandibular hypoplasia", "craniofacial surgery"]
+  },
+  {
+    "title": "Complications and Outcomes of Le Fort III Osteotomy in Syndromic Craniosynostosis",
+    "authors": ["Brown, M.", "Davis, K.", "Wilson, L."],
+    "year": "2022",
+    "journal": "Plastic and Reconstructive Surgery",
+    "abstract": "Le Fort III osteotomy is a complex procedure used to correct midface hypoplasia in patients with syndromic craniosynostosis. This retrospective study analyzed 75 patients who underwent Le Fort III osteotomy between 2010-2020. The procedure involves advancing the midface forward to correct the facial profile and improve airway function. Results showed significant improvement in facial appearance and breathing in 88% of patients. Common complications included cerebrospinal fluid leak (5%), infection (3%), and need for revision surgery (8%). The study concludes that Le Fort III osteotomy is an effective treatment for midface hypoplasia in syndromic craniosynostosis, with acceptable complication rates.",
+    "keywords": ["Le Fort III osteotomy", "craniosynostosis", "midface hypoplasia", "facial advancement", "complications"]
+  },
+  {
+    "title": "Virtual Surgical Planning in Orthognathic Surgery: A Systematic Review",
+    "authors": ["Taylor, S.", "Anderson, P.", "Martinez, R."],
+    "year": "2023",
+    "journal": "International Journal of Oral and Maxillofacial Surgery",
+    "abstract": "Virtual surgical planning (VSP) has revolutionized orthognathic surgery by allowing surgeons to plan procedures with greater precision. This systematic review analyzed 45 studies comparing traditional planning methods with VSP in orthognathic surgery. Results showed that VSP reduced operating time by an average of 45 minutes and improved accuracy of surgical outcomes. The technology allows for precise cutting guides and positioning of the facial skeleton. Common procedures that benefit from VSP include bilateral sagittal split osteotomy, Le Fort I osteotomy, and genioplasty. The review concludes that VSP is a valuable tool in modern orthognathic surgery, improving both efficiency and outcomes.",
+    "keywords": ["virtual surgical planning", "orthognathic surgery", "VSP", "bilateral sagittal split osteotomy", "Le Fort I osteotomy", "genioplasty"]
+  },
+  {
+    "title": "Long-term Outcomes of Distraction Osteogenesis in Craniofacial Surgery",
+    "authors": ["Lee, J.", "Garcia, M.", "Thompson, K."],
+    "year": "2021",
+    "journal": "Cleft Palate-Craniofacial Journal",
+    "abstract": "Distraction osteogenesis (DO) is a technique that gradually lengthens bone by creating a fracture and slowly separating the bone ends. This study evaluated long-term outcomes of DO in 120 patients with various craniofacial conditions. The procedure involves cutting the bone, applying a distractor device, and gradually activating it to create new bone. Results showed stable outcomes in 95% of patients after 5 years. Common complications included device failure (3%), infection (2%), and need for revision surgery (5%). The study concludes that DO is a reliable technique for bone lengthening in craniofacial surgery, with good long-term stability.",
+    "keywords": ["distraction osteogenesis", "bone lengthening", "craniofacial surgery", "complications", "long-term outcomes"]
+  },
+  {
+    "title": "Management of Temporomandibular Joint Disorders in Craniofacial Surgery",
+    "authors": ["Clark, R.", "White, S.", "Harris, T."],
+    "year": "2022",
+    "journal": "Journal of Oral and Maxillofacial Surgery",
+    "abstract": "Temporomandibular joint (TMJ) disorders are common in patients undergoing craniofacial surgery. This study evaluated the effectiveness of various treatments for TMJ disorders in 200 patients who had previously undergone orthognathic surgery. Treatments included physical therapy, splint therapy, and surgical intervention. Results showed that 75% of patients improved with conservative management, while 25% required surgical intervention. Common surgical procedures included arthrocentesis, arthroscopy, and open joint surgery. The study concludes that a stepwise approach to TMJ disorders is effective, with surgery reserved for cases that fail conservative management.",
+    "keywords": ["temporomandibular joint", "TMJ disorders", "orthognathic surgery", "arthrocentesis", "arthroscopy"]
+  }
+] 
